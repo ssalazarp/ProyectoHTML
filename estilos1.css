@@ -1,0 +1,12 @@
+h1{
+     margin: 0 auto;
+     text-align: center;
+     justify-content: center;
+     align-content: center;
+     font-family: 'poppins',fantasy;
+     font-size: 40px;
+}
+
+body{
+     background-color: #FFC41F;
+}
